@@ -1,0 +1,4 @@
+﻿  10Lab3Sem(C++).cpp
+C:\Users\denyss\source\repos\2_Course\Algor_ta_struk\10Lab3Sem(C++)\10Lab3Sem(C++)\10Lab3Sem(C++).cpp(254,27): warning C4101: 'value': unreferenced local variable
+C:\Users\denyss\source\repos\2_Course\Algor_ta_struk\10Lab3Sem(C++)\10Lab3Sem(C++)\10Lab3Sem(C++).cpp(254,19): warning C4101: 'number': unreferenced local variable
+C:\Users\denyss\source\repos\2_Course\Algor_ta_struk\10Lab3Sem(C++)\10Lab3Sem(C++)\10Lab3Sem(C++).cpp(427,1): error C2059: syntax error: 'constant'

@@ -1,0 +1,3 @@
+﻿  4Lab3Sem.cpp
+C:\Users\denyss\source\repos\2_Course\Algor_ta_struk\4Lab3Sem\4Lab3Sem\4Lab3Sem.cpp(96): warning C4715: 'Queue::peek': not all control paths return a value
+  4Lab3Sem.vcxproj -> C:\Users\denyss\source\repos\2_Course\Algor_ta_struk\4Lab3Sem\Debug\4Lab3Sem.exe

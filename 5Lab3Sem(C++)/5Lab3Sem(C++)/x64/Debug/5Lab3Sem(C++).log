@@ -1,0 +1,6 @@
+﻿  5Lab3Sem(C++).cpp
+C:\Users\denyss\source\repos\2_Course\Algor_ta_struk\5Lab3Sem(C++)\5Lab3Sem(C++)\5Lab3Sem(C++).cpp(20,20): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\denyss\source\repos\2_Course\Algor_ta_struk\5Lab3Sem(C++)\5Lab3Sem(C++)\5Lab3Sem(C++).cpp(24,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\denyss\source\repos\2_Course\Algor_ta_struk\5Lab3Sem(C++)\5Lab3Sem(C++)\5Lab3Sem(C++).cpp(24,40): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\denyss\source\repos\2_Course\Algor_ta_struk\5Lab3Sem(C++)\5Lab3Sem(C++)\5Lab3Sem(C++).cpp(36,8): warning C4101: 'result': unreferenced local variable
+  5Lab3Sem(C++).vcxproj -> C:\Users\denyss\source\repos\2_Course\Algor_ta_struk\5Lab3Sem(C++)\x64\Debug\5Lab3Sem(C++).exe
